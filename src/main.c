@@ -17,7 +17,7 @@ typedef struct
     char destination[30];
     char journeyDate[11]; // DD-MM-YYYY
 } Passenger;
-
+ 
 #define MAX_AC_SEAT 60
 #define MAX_NONAC_SEAT 60
 #define MAX_SEATER_SEAT 60
